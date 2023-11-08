@@ -1,0 +1,14 @@
+{
+  "name": "mongocrud",
+  "version": "1.0.0",
+  "description": "Simple crud for mongo db based on express library",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Mikołaj Ciepluch",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
